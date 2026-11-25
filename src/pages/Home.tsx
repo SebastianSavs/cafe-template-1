@@ -25,7 +25,7 @@ export default function Home({ onCategoryClick }: { onCategoryClick: (id: string
           {/* Card 1: Breakfast Button link hook */}
           <button onClick={() => onCategoryClick('breakfast')} className="category-card" style={{ background: 'none', border: 'none', width: '100%', cursor: 'pointer', padding: 0, textAlign: 'left' }}>
             <div className="image-wrapper">
-              <img src="https://images.unsplash.com/photo-1533089860892-a7c6f0a88666?q=80&w=500" alt="Breakfast" />
+              <img src="/img/Breakfast.jpg" alt="Breakfast" />
             </div>
             <div className="category-overlay">
               <h3>Breakfast</h3>
@@ -35,7 +35,7 @@ export default function Home({ onCategoryClick }: { onCategoryClick: (id: string
           {/* Card 2: Coffee Button link hook */}
           <button onClick={() => onCategoryClick('coffee')} className="category-card" style={{ background: 'none', border: 'none', width: '100%', cursor: 'pointer', padding: 0, textAlign: 'left' }}>
             <div className="image-wrapper">
-              <img src="https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=500" alt="Hot Coffee" />
+              <img src="/img/Coffee.jpg" alt="Hot Coffee" />
             </div>
             <div className="category-overlay">
               <h3>Coffee</h3>
@@ -45,7 +45,7 @@ export default function Home({ onCategoryClick }: { onCategoryClick: (id: string
           {/* Card 3: Cold Drinks Button link hook */}
           <button onClick={() => onCategoryClick('cold-drinks')} className="category-card" style={{ background: 'none', border: 'none', width: '100%', cursor: 'pointer', padding: 0, textAlign: 'left' }}>
             <div className="image-wrapper">
-              <img src="https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?q=80&w=500" alt="Cold Drinks" />
+              <img src="/img/ColdDrinks.jpg" alt="Cold Drinks" />
             </div>
             <div className="category-overlay">
               <h3>Cold Drinks</h3>
@@ -65,7 +65,7 @@ export default function Home({ onCategoryClick }: { onCategoryClick: (id: string
             </div>
             <div className="feature-image-box">
               <div className="image-wrapper">
-                <img src="img/WhatMakesACoffeeGood.jpg" alt="Latte Art Close-up" />
+                <img src="/img/WhatMakesACoffeeGood.jpg" alt="Latte Art Close-up" />
               </div>
               <div className="image-center-overlay">
                 <div className="overlay-badge">What Makes a Coffee Actually Good?</div>
@@ -80,7 +80,7 @@ export default function Home({ onCategoryClick }: { onCategoryClick: (id: string
             </div>
             <div className="feature-image-box">
               <div className="image-wrapper">
-                <img src="img/EnjoyACoffee.jpg" alt="Pouring Coffee" />
+                <img src="/img/EnjoyACoffee.jpg" alt="Pouring Coffee" />
               </div>
               <div className="image-center-overlay">
                 <div className="overlay-badge">How to Fully Enjoy Your Coffee</div>
@@ -95,7 +95,7 @@ export default function Home({ onCategoryClick }: { onCategoryClick: (id: string
             </div>
             <div className="feature-image-box">
               <div className="image-wrapper">
-                <img src="img/WhyBeansAreImportant.jpg" alt="Fresh Roasted Coffee Beans" />
+                <img src="/img/WhyBeansAreImportant.jpg" alt="Fresh Roasted Coffee Beans" />
               </div>
               <div className="image-center-overlay">
                 <div className="overlay-badge">Why the Beans Are Important</div>

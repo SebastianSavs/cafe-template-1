@@ -68,7 +68,7 @@ export default function Contact() {
                 <textarea 
                   id="message" 
                   rows={5} 
-                  placeholder="Lorem ipsum dolor sit amet..." 
+                  placeholder="Tell us what's on your mind...." 
                   required 
                   value={message}
                   onChange={(e) => setMessage(e.target.value)}

@@ -28,7 +28,7 @@ export default function Menu() {
                 
                 {/* Item 1 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Cortado.jpg" alt="Cortado" /></div>
+                  <div className="image-container"><img src="/img/Cortado.jpg" alt="Cortado" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$4.25</span><h4>Cortado</h4></div>
                     <div className="product-meta">
@@ -40,7 +40,7 @@ export default function Menu() {
 
                 {/* Item 2 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Cappucino.jpg" alt="Cappuccino" /></div>
+                  <div className="image-container"><img src="/img/Cappucino.jpg" alt="Cappuccino" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$4.50</span><h4>Cappuccino</h4></div>
                     <div className="product-meta">
@@ -52,7 +52,7 @@ export default function Menu() {
 
                 {/* Item 3 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Flat_White.jpg" alt="Flat White" /></div>
+                  <div className="image-container"><img src="/img/Flat_White.jpg" alt="Flat White" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$4.75</span><h4>Flat White</h4></div>
                     <div className="product-meta">
@@ -64,7 +64,7 @@ export default function Menu() {
 
                 {/* Item 4 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Esspresso.jpg" alt="Espresso Shot" /></div>
+                  <div className="image-container"><img src="/img/Esspresso.jpg" alt="Espresso Shot" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$3.00</span><h4>Espresso</h4></div>
                     <div className="product-meta">
@@ -76,7 +76,7 @@ export default function Menu() {
 
                 {/* Item 5 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Americano.jpg" alt="Americano" /></div>
+                  <div className="image-container"><img src="/img/Americano.jpg" alt="Americano" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$3.75</span><h4>Americano</h4></div>
                     <div className="product-meta">
@@ -88,7 +88,7 @@ export default function Menu() {
 
                 {/* Item 6 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Machiatto.jpg" alt="Macchiato" /></div>
+                  <div className="image-container"><img src="/img/Machiatto.jpg" alt="Macchiato" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$4.50</span><h4>Macchiato</h4></div>
                     <div className="product-meta">
@@ -108,7 +108,7 @@ export default function Menu() {
                 
                 {/* Item 1 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Croissant.jpg" alt="Croissant" /></div>
+                  <div className="image-container"><img src="/img/Croissant.jpg" alt="Croissant" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$4.75</span><h4>Croissant</h4></div>
                     <div className="product-meta">
@@ -120,7 +120,7 @@ export default function Menu() {
 
                 {/* Item 2 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Avocado_Toast.jpg" alt="Avocado Toast" /></div>
+                  <div className="image-container"><img src="/img/Avocado_Toast.jpg" alt="Avocado Toast" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$7.50</span><h4>Avocado Toast</h4></div>
                     <div className="product-meta">
@@ -132,7 +132,7 @@ export default function Menu() {
 
                 {/* Item 3 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Maple_Pancakes.jpg" alt="Pancakes" /></div>
+                  <div className="image-container"><img src="/img/Maple_Pancakes.jpg" alt="Pancakes" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$8.25</span><h4>Maple Pancakes</h4></div>
                     <div className="product-meta">
@@ -144,7 +144,7 @@ export default function Menu() {
 
                 {/* Item 4 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Salmon_Bagel.jpg" alt="Salmon Bagel" /></div>
+                  <div className="image-container"><img src="/img/Salmon_Bagel.jpg" alt="Salmon Bagel" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$9.00</span><h4>Salmon Bagel</h4></div>
                     <div className="product-meta">
@@ -156,7 +156,7 @@ export default function Menu() {
 
                 {/* Item 5 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Fired_Eggs.jpg" alt="Fried Eggs" /></div>
+                  <div className="image-container"><img src="/img/Fired_Eggs.jpg" alt="Fried Eggs" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$7.00</span><h4>Fried Eggs</h4></div>
                     <div className="product-meta">
@@ -176,7 +176,7 @@ export default function Menu() {
                 
                 {/* Item 1 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Nitro_Cold_Brew.jpg" alt="Cold Brew" /></div>
+                  <div className="image-container"><img src="/img/Nitro_Cold_Brew.jpg" alt="Cold Brew" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$5.00</span><h4>Nitro Cold Brew</h4></div>
                     <div className="product-meta">
@@ -188,7 +188,7 @@ export default function Menu() {
 
                 {/* Item 2 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Iced_Latte.jpg" alt="Iced Latte" /></div>
+                  <div className="image-container"><img src="/img/Iced_Latte.jpg" alt="Iced Latte" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$5.25</span><h4>Iced Latte</h4></div>
                     <div className="product-meta">
@@ -200,7 +200,7 @@ export default function Menu() {
 
                 {/* Item 3 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Berry_Smothie.jpg" alt="Fruit Smoothie" /></div>
+                  <div className="image-container"><img src="/img/Berry_Smothie.jpg" alt="Fruit Smoothie" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$6.00</span><h4>Berry Smoothie</h4></div>
                     <div className="product-meta">
@@ -212,7 +212,7 @@ export default function Menu() {
 
                 {/* Item 4 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Iced_Matcha.jpg" alt="Iced Matcha" /></div>
+                  <div className="image-container"><img src="/img/Iced_Matcha.jpg" alt="Iced Matcha" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$5.50</span><h4>Iced Matcha</h4></div>
                     <div className="product-meta">
@@ -224,7 +224,7 @@ export default function Menu() {
 
                 {/* Item 5 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Limonade.jpg" alt="Limonade" /></div>
+                  <div className="image-container"><img src="/img/Limonade.jpg" alt="Limonade" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$4.60</span><h4>Limonade</h4></div>
                     <div className="product-meta">
@@ -236,7 +236,7 @@ export default function Menu() {
 
                 {/* Item 6 */}
                 <div className="menu-card">
-                  <div className="image-container"><img src="img/Mango_Smoothie.jpg" alt="Mango Smoothie" /></div>
+                  <div className="image-container"><img src="/img/Mango_Smoothie.jpg" alt="Mango Smoothie" /></div>
                   <div className="menu-details">
                     <div className="menu-header"><span className="menu-price">$7.00</span><h4>Mango Smoothie</h4></div>
                     <div className="product-meta">
